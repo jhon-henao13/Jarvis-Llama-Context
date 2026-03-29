@@ -22,7 +22,7 @@
 
 1.  **Clona el repositorio:**
     ```bash
-    git clone [https://github.com/TU_USUARIO/Jarvis.git](https://github.com/TU_USUARIO/Jarvis.git)
+    git clone [https://github.com/jhon-henao13/Jarvis.git]
     cd Jarvis
     ```
 
